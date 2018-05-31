@@ -1,0 +1,3 @@
+bgq: clcg4.h clcg4.c assignment5.c
+	mpixlc -I. -O2 -c clcg4.c -o clcg4.o
+	mpixlc -I. -O2 assignment5.c clcg4.o -o assignment5.xl -lpthread 
