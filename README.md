@@ -1,6 +1,13 @@
 # Overview
 Implementation of Conway's Game of Life designed for the Blue Gene/Q. See uploaded PDF for the performance results.
 
+## Contributors
+
+<a href="https://github.com/AndrewAltimit/Distributed-Twitter-Service//graphs/contributors">
+  <img src="contributors.png" />
+</a>
+
+
 ## Usage
 
 Command-Line Arguments:
