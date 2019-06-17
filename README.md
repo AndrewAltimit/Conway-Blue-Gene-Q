@@ -3,7 +3,7 @@ Implementation of Conway's Game of Life designed for the Blue Gene/Q. See upload
 
 ## Contributors
 
-<a href="https://github.com/AndrewAltimit/Conway-Blue-Gene-Q//graphs/contributors">
+<a href="https://github.com/AndrewAltimit/Conway-Blue-Gene-Q/graphs/contributors">
   <img src="contributors.png" />
 </a>
 
